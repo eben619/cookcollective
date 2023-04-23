@@ -1,0 +1,88 @@
+.heading{
+    border-bottom: 2px solid #ff490d;
+    font-family: "MP",sans-serif;
+    font-size: 33.3px;
+    padding-bottom: 2px;
+}
+.how-to-apply{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#fn,#hdyfu{
+    width:650px;
+    padding: 4px 8px;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.7;
+    border-radius: 5px;
+    border-color: #ff490d;
+    border-style: solid;
+    color: #ff490d;
+}
+#ed,#wosm,#cn,#pn,#em,#wosm,#toc,#iaa{
+    width:316px;
+    padding: 4px 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.7;
+    border-radius: 5px;
+    border-color: #ff490d;
+    border-style:solid;
+    color: #ff490d;
+    margin-right: 11.2px;
+    row-gap: 5px;
+    
+}
+#dyc{
+    width:650px;
+    height: 150px;
+    padding: 4px 8px;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.4;
+    border-radius: 5px;
+    border-color: #ff490d;
+    border-style: solid;
+    color: #ff490d;
+    
+}
+::placeholder {
+    color: #ff490d;
+    opacity: 1;
+  }
+  .terms{
+    color: #ff490d;
+    display: inline;
+  }
+  .terms-checkbox{
+    font-weight: bold;
+    border-bottom: 2px dotted #ff490d;
+    line-height: 1.4;
+}
+#checkbox{
+    display: inline;
+    color: #ff490d;
+  }
+.submit{
+    width:650px;
+    height:55px;
+    background-color: #ff490d;
+    color:white;
+    border-radius: 30px;
+    border: 0px;
+    box-shadow: 0px 0px 1.25rem 0px rgba(29,29,29,0.1);
+    line-height: 1;
+    font-size: 17px;
+    font-weight: bold;
+}
+.booking-text{
+    font-size: 1.4rem;
+    line-height: 1.2;
+    max-width: 33rem;
+}
+.bigt{
+    text-align:center;
+}
